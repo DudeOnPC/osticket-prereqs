@@ -56,6 +56,6 @@ To assure that everything was done correctly head over to 127.0.0.1 in your brow
 
 ![image](https://github.com/DudeOnPC/osticket-prereqs/assets/167653474/5088133e-902b-41bf-8f04-c9625e35dd20)
 
+Download PHP Manager IIS--> Download Rewrite Module--> Create a New Folder in the C: Drive named "PHP" and extract files into it--> Download VC redist.x86.exe C++ file--> Install MySQL 5.5.62--> Typical Setup--> Launch Configuration Wizard (after install)-->Standard Configuration--> Password1
 
-Download PHP Manager IIS--> Download Rewrite Module--> Create a New Folder in the C: Drive and call it "PHP"
 
