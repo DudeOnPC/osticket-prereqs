@@ -39,6 +39,8 @@ First step for this project is to create a virtual machine to host our ticketing
 <p>
   
 ![image](https://github.com/DudeOnPC/osticket-prereqs/assets/167653474/c5b32c7c-57d2-4c65-b273-3d9471895ed2)
+![image](https://github.com/DudeOnPC/osticket-prereqs/assets/167653474/52b27573-a18e-47a2-aeb3-b6ee269aadc9)
+
 
 </p>
 <p>
