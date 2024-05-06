@@ -53,6 +53,6 @@ In order for the installation to work properly we have to open up Control Panel-
   
 </p>
 <p>
-To assure that everything was done correctly head over to 127.0.0.1 in your browser. You should see the Internet Inforamtion Services webpage.
+To assure that everything was done correctly head over to 127.0.0.1 in your browser. You should see the Internet Inforamtion Services webpage. In the rare case it didn't work just uncheck the Internet Information Services box and hit ok, this will uninstall the files we donloaded and repeat the steps to reinstall the IIS files.
 </p>
 <br />
