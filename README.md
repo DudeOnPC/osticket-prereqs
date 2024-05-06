@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Virtual Machine
 - Item 2
 - Item 3
 - Item 4
@@ -40,13 +40,9 @@ First step for this project is to create a virtual machine to host our ticketing
   
 ![image](https://github.com/DudeOnPC/osticket-prereqs/assets/167653474/c5b32c7c-57d2-4c65-b273-3d9471895ed2)
 
-
-
-
-
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In order for the installation to work properly we have to open up Control Panel--> Programs--> Turn Windows features on or off--> Check Internet Information Services(IIS) box--> Expand Application Development Features--> World Wide Web Services--> Check CGI box--> Expand Common HTTP Features and check remaining boxes that are unchecked, then click ok to finish donwloading the files for the ticketing system to work.
 </p>
 <br />
 
