@@ -58,4 +58,25 @@ To assure that everything was done correctly head over to 127.0.0.1 in your brow
 
 Download PHP Manager IIS--> Download Rewrite Module--> Create a New Folder in the C: Drive named "PHP" and extract files into it--> Download VC redist.x86.exe C++ file--> Install MySQL 5.5.62--> Typical Setup--> Launch Configuration Wizard (after install)-->Standard Configuration--> Password1
 
+![image](https://github.com/DudeOnPC/osticket-prereqs/assets/167653474/6d2a7d56-de15-4d28-a6d7-0b91dcbdc60a)
+
+Open IIS as an Admin
+
+Register PHP from within IIS
+</p>
+
+![image](https://github.com/DudeOnPC/osticket-prereqs/assets/167653474/1306c433-6697-4e92-86c3-a8ad192b158d)
+
+Reload IIS (Open IIS, Stop and Start the server)
+
+</p>
+
+![image](https://github.com/DudeOnPC/osticket-prereqs/assets/167653474/272d2eaf-76d4-49be-bc57-7bc4989fdb97)
+
+Install osTicket v1.15.8
+Download osTicket from the Installation Files Folder
+Extract and copy “upload” folder to c:\inetpub\wwwroot
+Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
+
 
