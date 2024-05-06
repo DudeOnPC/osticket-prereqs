@@ -21,10 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Virtual Machine
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 <h2>Installation Steps</h2>
 
@@ -53,6 +50,12 @@ In order for the installation to work properly we have to open up Control Panel-
   
 </p>
 <p>
-To assure that everything was done correctly head over to 127.0.0.1 in your browser. You should see the Internet Inforamtion Services webpage. In the rare case it didn't work just uncheck the Internet Information Services box and hit ok, this will uninstall the files we donloaded and repeat the steps to reinstall the IIS files.
+To assure that everything was done correctly head over to 127.0.0.1 in your browser. You should see the Internet Inforamtion Services webpage. In the rare case it didn't work just uncheck the Internet Information Services box and hit ok, this will uninstall the files we downloaded and repeat the steps to reinstall the IIS files.
 </p>
 <br />
+
+![image](https://github.com/DudeOnPC/osticket-prereqs/assets/167653474/5088133e-902b-41bf-8f04-c9625e35dd20)
+
+
+Download PHP Manager IIS--> Download Rewrite Module--> Create a New Folder in the C: Drive and call it "PHP"
+
